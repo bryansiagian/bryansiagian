@@ -85,7 +85,7 @@ bryan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Torisi%20Siagian?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bryan-torisi-siagian-40a488284)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Torisi%20Siagian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-torisi-siagian-40a488284)
 [![Instagram](https://img.shields.io/badge/Instagram-@brynsgn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brynsgn)
 [![Email](https://img.shields.io/badge/Email-bryantorisi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryantorisi@gmail.com)
 
