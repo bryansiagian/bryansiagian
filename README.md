@@ -1,149 +1,71 @@
-<div align="center">
+# Bryan Torisi Siagian
 
-# Hi there, I'm Bryan Torisi Siagian 👋
+**Software Engineer · Information Technology Student at Institut Teknologi Del**
 
-### Information Technology Student · Institut Teknologi Del
+I build web and mobile applications with Laravel and Flutter, with a focus on practical, maintainable software. I am currently expanding my knowledge in data science, machine learning, and cybersecurity.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Web+%26+Mobile+Developer;Building+with+Laravel+%26+Flutter;Exploring+Data+Science+%26+Cybersecurity;Always+learning+and+creating+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-bryan = {
-    "name": "Bryan Torisi Siagian",
-    "university": "Institut Teknologi Del",
-    "major": "Information Technology",
-    "semester": 5,
-
-    "interests": [
-        "Web Development",
-        "Mobile Development",
-        "Software Engineering"
-    ],
-
-    "currently_learning": [
-        "Data Science",
-        "Machine Learning",
-        "Cybersecurity"
-    ],
-
-    "focus": "Building practical solutions through software",
-    "goal": "Become a well-rounded software engineer"
-}
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Torisi%20Siagian-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-torisi-siagian-40a488284)
+[![Email](https://img.shields.io/badge/Email-bryantorisi%40gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:bryantorisi@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40brynsgn-24292f?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/brynsgn)
 
 ---
 
-## 🛠 Core Technologies
+## Focus Areas
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frameworks & Development
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Database & Cloud
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Area | Details |
+| :--- | :--- |
+| **Web Development** | Full-stack applications with Laravel, Livewire, Alpine.js, and Tailwind CSS |
+| **Mobile Development** | Cross-platform applications with Flutter |
+| **Cloud & Infrastructure** | Cloud deployment and backend infrastructure on AWS |
+| **Currently Learning** | Data Science, Machine Learning, Cybersecurity |
 
 ---
 
-## 📚 Familiar With
+## Featured Projects
 
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+### [SIGAP-Desa](https://github.com/bryansiagian/SIGAP-Desa)
+Generative Adaptive Village Service Information System. A village service platform with a generative feature that lets non-technical staff create new service features without waiting for developer sprints.
+`Laravel` `Livewire` `Alpine.js`
 
----
-
-## 🚀 Currently Exploring
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?style=for-the-badge)
+### [TobaNiaga](https://github.com/bryansiagian/TobaNiaga)
+Multi-vendor e-commerce platform for local SMEs around Lake Toba. Includes four-role access control, Midtrans checkout (virtual account, QRIS, card), and a courier job pool with fund withdrawal.
+`Laravel` `Alpine.js` `Tailwind CSS` `Midtrans`
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<div align="center">
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-24292f?style=flat-square&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-24292f?style=flat-square&logo=c&logoColor=00599C)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryansiagian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+**Frameworks**
+![Laravel](https://img.shields.io/badge/Laravel-24292f?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Flutter](https://img.shields.io/badge/Flutter-24292f?style=flat-square&logo=flutter&logoColor=02569B)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansiagian&layout=compact&langs_count=8&theme=tokyonight"/>
+**Database & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-24292f?style=flat-square&logo=mysql&logoColor=4479A1)
+![AWS](https://img.shields.io/badge/AWS-24292f?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 
-</div>
+**Tools**
+![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-24292f?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bryansiagian&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 What I'm Currently Doing
-
-- 🔭 Building web and mobile applications using Laravel and Flutter
-- ☁️ Learning cloud deployment and backend infrastructure
-- 📊 Exploring Data Science and data visualization tools
-- 🔐 Expanding my knowledge in Cybersecurity
-- 🎓 Studying Information Technology at Institut Teknologi Del
-
----
-
-## 🌟 Featured Interests
-
-- Web Development
-- Mobile Development
-- Cloud Computing
-- Software Engineering
-- Data Science
-- Cybersecurity
+**Familiar With**
+![Power BI](https://img.shields.io/badge/Power%20BI-24292f?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau-24292f?style=flat-square&logo=tableau&logoColor=E97627)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-24292f?style=flat-square&logo=cisco&logoColor=1BA0D7)
+![Assembly](https://img.shields.io/badge/Assembly-24292f?style=flat-square)
 
 ---
 
-## 📬 Let's Connect
+## GitHub Activity
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Torisi%20Siagian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-torisi-siagian-40a488284)
-
-[![Instagram](https://img.shields.io/badge/Instagram-@brynsgn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brynsgn)
-
-[![Email](https://img.shields.io/badge/Email-bryantorisi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryantorisi@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-> "First, solve the problem. Then, write the code."
->
-> — John Johnson
-
-<br>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bryansiagian.bryansiagian)
-
-</div>
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bryansiagian&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansiagian&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
