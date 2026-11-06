@@ -1,50 +1,157 @@
-# Bryan Torisi Siagian
+<div align="center">
 
-**Software Engineer · Information Technology Student at Institut Teknologi Del**
+# Hi there, I'm Bryan Torisi Siagian 👋
 
-I build web and mobile applications with Laravel and Flutter, with a focus on practical, maintainable software. I am currently expanding my knowledge in data science and machine learning.
+### Information Technology Student · Institut Teknologi Del
 
-[Portfolio](https://bryansiagian.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/bryan-torisi-siagian-40a488284) · [Email](mailto:bryantorisi@gmail.com) · [Instagram](https://instagram.com/brynsgn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Web+%26+Mobile+Developer;Exploring+Data+Science+%26+Machine+Learning;Always+learning+and+creating+new+things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
-
-## Focus Areas
-
-| Area | Details |
-| :--- | :--- |
-| **Web Development** | Full-stack applications with Laravel, Livewire, Alpine.js, Tailwind CSS, React, and Next.js |
-| **Mobile Development** | Cross-platform applications with Flutter |
-| **Cloud & Infrastructure** | Cloud deployment and backend infrastructure on AWS, containerization with Docker |
-| **Currently Learning** | Data Science and Machine Learning with TensorFlow and PyTorch |
+</div>
 
 ---
 
-## Featured Projects
+## 👨‍💻 About Me
 
-### [SIGAP-Desa](https://github.com/bryansiagian/SIGAP-Desa)
+```python
+bryan = {
+    "name": "Bryan Torisi Siagian",
+    "university": "Institut Teknologi Del",
+    "major": "Information Technology",
+    "semester": 5,
 
-Generative Adaptive Village Service Information System. A village service platform with a generative feature that lets non-technical staff create new service features without waiting for developer sprints.
+    "interests": [
+        "Web Development",
+        "Mobile Development",
+        "Software Engineering"
+    ],
 
-`Laravel` `Livewire` `Alpine.js`
+    "currently_learning": [
+        "Data Science",
+        "Machine Learning",
+    ],
 
-### [TobaNiaga](https://github.com/bryansiagian/TobaNiaga)
-
-Multi-vendor e-commerce platform for local SMEs around Lake Toba. Includes four-role access control, Midtrans checkout (virtual account, QRIS, card), and a courier job pool with fund withdrawal.
-
-`Laravel` `Alpine.js` `Tailwind CSS` `Midtrans`
-
-More projects, achievements, and certificates are available on my [portfolio](https://bryansiagian.pages.dev/).
+    "focus": "Building practical solutions through software",
+    "goal": "Become a well-rounded software engineer"
+}
+```
 
 ---
 
-## Tech Stack
+## 🛠 Core Technologies
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=js,php,py,java,c,go" alt="JavaScript, PHP, Python, Java, C, Go" height="40" /> |
-| **Frameworks & Libraries** | <img src="https://skillicons.dev/icons?i=laravel,nestjs,react,nextjs,alpinejs,tailwind,flutter" alt="Laravel, NestJS, React, Next.js, Alpine.js, Tailwind CSS, Flutter" height="40" /> |
-| **Data Science & ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch" height="40" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="MySQL, PostgreSQL, SQLite" height="40" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker" alt="AWS, Docker" height="40" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" height="40" /> |
-| **Familiar With** | Power BI, Tableau, Cisco Packet Tracer, Assembly |
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frameworks & Development
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Data Science & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### Database & Cloud
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📚 Familiar With
+
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## 🚀 Currently Exploring
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-4285F4?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryansiagian&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryansiagian&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bryansiagian&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 What I'm Currently Doing
+
+- 🔭 Building web and mobile applications using Laravel and Flutter
+- ☁️ Learning cloud deployment and backend infrastructure
+- 📊 Exploring Data Science and data visualization tools
+- 🎓 Studying Information Technology at Institut Teknologi Del
+
+---
+
+## 🌟 Featured Interests
+
+- Web Development
+- Mobile Development
+- Cloud Computing
+- Software Engineering
+- Data Science
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Torisi%20Siagian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-torisi-siagian-40a488284)
+
+[![Instagram](https://img.shields.io/badge/Instagram-@brynsgn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brynsgn)
+
+[![Email](https://img.shields.io/badge/Email-bryantorisi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryantorisi@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+> "First, solve the problem. Then, write the code."
+>
+> — John Johnson
+
+<br>
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=bryansiagian.bryansiagian)
+
+</div>
